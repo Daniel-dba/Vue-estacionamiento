@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h3>En esta página veremos como la Empresa ABC  a organizado su estacionamiento por empleado</h3>
+    <h5>Vuelva atras y Haga click en la pestaña que dice empleado</h5>
   </div>
 </template>
